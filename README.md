@@ -25,6 +25,6 @@ The dataset is a treasure trove from the gaming industry, spotlighting the top 4
 - **SQL Joins**: Weaving together information from diverse sources with join operations.
 - **Set Operations**: Playing with set operations (`EXCEPT` and `INTERSECT`) for nuanced dataset comparisons.
 
-View my project [here](# https://github.com/MeriemTerki/SQL-Projects-Portfolio/blob/main/When-Was-the-Golden-Age-of-Video-Games.ipynb).
+View my project [here](https://github.com/MeriemTerki/SQL-Projects-Portfolio/blob/main/When-Was-the-Golden-Age-of-Video-Games.ipynb).
 
 
