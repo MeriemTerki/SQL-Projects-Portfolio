@@ -25,8 +25,6 @@ The dataset used in this project is sourced from the gaming industry, focusing o
 - SQL Joins: Joining tables to combine information from different sources and facilitate comprehensive analysis.
 - Set Operations: Employing set operations like `EXCEPT` and `INTERSECT` to compare and contrast datasets.
 
-### Conclusion
-The analysis provides insights into the best-selling and most critically acclaimed video games, highlighting potential golden ages in the gaming industry. By considering both critic and user perspectives, this project aims to offer a comprehensive view of the video game landscape, identifying years that stand out in terms of sales and reception.
 View my project [here](#).
 
 
