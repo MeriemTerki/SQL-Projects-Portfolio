@@ -42,12 +42,12 @@ The dataset unravels information about the debt owed by developing countries, ca
 - **EXCEPT Operation**: Employing the `EXCEPT` operation for dataset subtraction, identifying differences between two result sets.
 - **INTERSECT Operation**: Using the `INTERSECT` operation to find common elements between two result sets.
 
-View my project [here](https://github.com/MeriemTerki/SQL-Projects-Portfolio/blob/main/When-Was-the-Golden-Age-of-Video-Games.ipynb).
+View my project [here](https://github.com/MeriemTerki/SQL-Projects-Portfolio/blob/main/Analyze%20International%20Debt%20Statistics/Analyze-International-Debt-Statistics.ipynb).
 
 
 ## Video Game Analysis Project 🎮
 
-#### Introduction 🕹️
+#### Introduction 🌍
 This project dives into the realm of top-selling video games from 1977 to 2020, unraveling trends, critical reception, and player preferences. The dataset, featuring the top 400 best-selling games, unveils insights through game sales and comprehensive reviews.
 
 #### Dataset 📊
