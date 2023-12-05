@@ -4,8 +4,7 @@ A collection of SQL projects to make in practice the needed skills in SQL as a d
 ## 1. Video Game Analysis Project
 
 ### Introduction
-Video games have become a significant part of the entertainment industry, with a global market projected to be worth more than $300 billion by 2027. This project aims to explore and analyze the top-selling video games between 1977 and 2020, shedding light on trends, critical reception, and user preferences. The dataset used in this project consists of information on game sales, including the number of copies sold, and reviews data, including critic and user scores.
-
+ This project aims to explore and analyze the top-selling video games between 1977 and 2020, shedding light on trends, critical reception, and user preferences. 
 ### Dataset
 The dataset used in this project is sourced from the gaming industry, focusing on the top 400 best-selling video games. It comprises two tables: `game_sales` and `reviews`. The `game_sales` table contains information about the games, including the name, platform, publisher, developer, copies sold, and release year. The `reviews` table includes critic and user scores for each game.
 
