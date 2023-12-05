@@ -29,9 +29,4 @@ The dataset used in this project is sourced from the gaming industry, focusing o
 The analysis provides insights into the best-selling and most critically acclaimed video games, highlighting potential golden ages in the gaming industry. By considering both critic and user perspectives, this project aims to offer a comprehensive view of the video game landscape, identifying years that stand out in terms of sales and reception.
 View my project [here](#).
 
-For the complete dataset with over 13,000 games, refer to the dataset on Kaggle.
 
-Feel free to explore and build upon this analysis to gain deeper insights into the ever-evolving world of video games.
-
-
-View my project [here](#).
