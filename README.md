@@ -1,28 +1,29 @@
 # 📊 SQL-Projects-Portfolio
 A collection of SQL projects to make in practice the needed skills in SQL as a data professional
 
-## 1. Video Game Analysis Project
+## Video Game Analysis Project 🎮
 
-### Introduction
- This project aims to explore and analyze the top-selling video games between 1977 and 2020, shedding light on trends, critical reception, and user preferences. 
-### Dataset
-The dataset used in this project is sourced from the gaming industry, focusing on the top 400 best-selling video games. It comprises two tables: `game_sales` and `reviews`. The `game_sales` table contains information about the games, including the name, platform, publisher, developer, copies sold, and release year. The `reviews` table includes critic and user scores for each game.
+#### Introduction 🕹️
+This project dives into the realm of top-selling video games from 1977 to 2020, unraveling trends, critical reception, and player preferences. The dataset, featuring the top 400 best-selling games, unveils insights through game sales and comprehensive reviews.
 
-### Objectives
-1. **Top Selling Games**: Identify and list the top ten best-selling video games of all time.
-2. **Missing Review Scores**: Address the limitation of missing review scores for some games and quantify the extent of this issue.
-3. **Years That Critics Loved**: Explore the years that received the highest average critic scores, indicating potential golden ages for video games.
-4. **Verification of Critic Favorites**: Investigate the suspiciously round average critic scores and determine if certain years had fewer reviewed games, impacting the averages.
-5. **Years That Dropped Off Critics' Favorites List**: Identify years that dropped off the list of critic favorites due to having four or fewer reviewed games.
-6. **Years Video Game Players Loved**: Analyze the average user scores by year to understand the preferences of players.
-7. **Years That Both Players and Critics Loved**: Identify years that appear in both the top ten critic and user reviews, signifying universally acclaimed years.
-8. **Sales in the Best Video Game Years**: Examine the total game sales for the years that received acclaim from both critics and players.
+#### Dataset 📊
+The dataset is a treasure trove from the gaming industry, spotlighting the top 400 best-selling video games. Two tables, `game_sales` and `reviews`, provide a comprehensive view. `game_sales` showcases game details like name, platform, sales, and release year. The `reviews` table unfolds critic and user scores for a holistic analysis.
 
-### Key Learning
-- SQL Syntax: Understanding and utilizing SQL queries for data retrieval and analysis.
-- SQL Functions: Utilizing functions such as `AVG`, `COUNT`, `SUM`, and `ROUND` for aggregating and summarizing data.
-- SQL Joins: Joining tables to combine information from different sources and facilitate comprehensive analysis.
-- Set Operations: Employing set operations like `EXCEPT` and `INTERSECT` to compare and contrast datasets.
+#### Objectives 🚀
+1. **Top Selling Games**: Uncover and celebrate the top ten best-selling video games of all time.
+2. **Missing Review Scores**: Address the mystery of missing review scores for some games.
+3. **Years That Critics Loved**: Time-travel through the years with the highest average critic scores, seeking the golden age of gaming.
+4. **Verification of Critic Favorites**: Uncover the truth behind suspiciously round average critic scores, delving into the number of reviewed games.
+5. **Years That Dropped Off Critics' Favorites List**: Discover the overlooked years due to minimal game reviews.
+6. **Years Video Game Players Loved**: Decode player preferences through average user scores by year.
+7. **Years That Both Players and Critics Loved**: Identify the golden years that captured both critic and player hearts.
+8. **Sales in the Best Video Game Years**: Peek into the financial success of years cherished by critics and players alike.
+
+#### Key Learning 🧠
+- **SQL Syntax**: Mastering SQL queries for effective data retrieval and analysis.
+- **SQL Functions**: Employing functions like `AVG`, `COUNT`, `SUM`, and `ROUND` for insightful data summaries.
+- **SQL Joins**: Weaving together information from diverse sources with join operations.
+- **Set Operations**: Playing with set operations (`EXCEPT` and `INTERSECT`) for nuanced dataset comparisons.
 
 View my project [here](#).
 
