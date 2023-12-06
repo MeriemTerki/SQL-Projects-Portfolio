@@ -67,7 +67,7 @@ The dataset spans 101 years, from 1920 through 2020, and includes first names, t
 
 - **Conditional Classification**: Employing `CASE` statements for conditional logic to classify data into different categories.
 
-View my project [here](https://github.com/MeriemTerki/SQL-Projects-Portfolio/blob/main/When-Was-the-Golden-Age-of-Video-Games.ipynb).
+View my project [here](https://github.com/MeriemTerki/SQL-Projects-Portfolio/blob/main/Analyzing%20American%20Baby%20Name%20Trends/Analyzing-American-Baby-Name-Trends.ipynb).
 
 ## Video Game Analysis Project 🎮
 
