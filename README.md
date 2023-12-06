@@ -44,6 +44,30 @@ The dataset unravels information about the debt owed by developing countries, ca
 
 View my project [here](https://github.com/MeriemTerki/SQL-Projects-Portfolio/blob/main/Analyze%20International%20Debt%20Statistics/Analyze-International-Debt-Statistics.ipynb).
 
+## Analyzing American Baby Name Trends👶
+
+#### Introduction 🌍
+Understanding the evolution of baby names over the years is not only interesting for new parents but also holds broader significance for businesses in various industries. In this project, we aim to analyze American baby name trends using data provided by the United States Social Security Administration. 
+
+#### Dataset 📊
+The dataset spans 101 years, from 1920 through 2020, and includes first names, the number of babies given each name in a year, and the gender of those babies.
+
+#### Objectives 🚀
+1. **Identify Timeless Names**: Explore names that have stood the test of time by selecting names that have been given to babies in all 101 years. This analysis provides insights into classic American names that have maintained popularity over the decades.
+2. **Classify Popularity Types**:Classify names as 'Classic', 'Semi-classic', 'Semi-trendy', or 'Trendy' based on the duration of their popularity. This classification will help us understand the type of popularity each name in the dataset has enjoyed.
+3. **Top-ranked Female Names**:Rank and display the top 10 female names based on the total number of babies given each name since 1920. This analysis focuses on traditionally female names.
+4. **Pick a Baby Name**: Assist a friend in choosing a baby name for her daughter. The criteria include the name being traditionally female, ending in the letter 'a', and having been popular since 2015. Explore and provide options based on these criteria.
+5. **The Olivia Expansion**:  Investigate the popularity of the name 'Olivia' over the years, including when it gained prominence. Utilize window functions to analyze the cumulative number of babies named Olivia from 1991 to the present.
+
+#### Learning Focus 🧠
+
+- **SQL Window Functions**: Mastering the use of window functions (`RANK()` in this case) to perform calculations across a set of table rows.
+
+- **Common Table Expressions (CTEs)**: Utilizing CTEs to break down complex queries into modular, more understandable parts.
+
+- **Conditional Classification**: Employing `CASE` statements for conditional logic to classify data into different categories.
+
+View my project [here](https://github.com/MeriemTerki/SQL-Projects-Portfolio/blob/main/When-Was-the-Golden-Age-of-Video-Games.ipynb).
 
 ## Video Game Analysis Project 🎮
 
