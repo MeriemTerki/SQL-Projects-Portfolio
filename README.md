@@ -86,6 +86,9 @@ The dataset under examination unfolds information about NYC public school test r
 - `average_writing`: Average writing score for SATs
 - `percent_tested`: Percentage of students completing SATs
 
+
+#### Objectives 🚀
+
 This project is driven by a set of specific objectives aimed at gaining insights from the NYC public school test result scores dataset. The objectives include:
 
 1. **Inspecting the Data:** Connect to the dataset, select, and display the first ten rows to gain an initial understanding.
