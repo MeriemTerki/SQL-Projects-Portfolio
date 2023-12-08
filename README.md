@@ -69,6 +69,52 @@ The dataset spans 101 years, from 1920 through 2020, and includes first names, t
 
 View my project [here](https://github.com/MeriemTerki/SQL-Projects-Portfolio/blob/main/Analyzing%20American%20Baby%20Name%20Trends/Analyzing-American-Baby-Name-Trends.ipynb).
 
+##  Analyzing NYC Public School Test Result Scores 🏫
+
+#### Introduction 🌍
+
+This project delves into the NYC public school test result scores dataset, leveraging SQL queries for in-depth analysis. The dataset encompasses crucial information like school names, boroughs, building codes, and SAT scores, enabling a comprehensive exploration of academic performance.
+
+#### Dataset 📊
+The dataset under examination unfolds information about NYC public school test result scores. Key columns in the dataset include:
+
+- `school_name`: Name of the school
+- `borough`: Borough where the school is located
+- `building_code`: Code for the building
+- `average_math`: Average math score for SATs
+- `average_reading`: Average reading score for SATs
+- `average_writing`: Average writing score for SATs
+- `percent_tested`: Percentage of students completing SATs
+
+This project is driven by a set of specific objectives aimed at gaining insights from the NYC public school test result scores dataset. The objectives include:
+
+1. **Inspecting the Data:** Connect to the dataset, select, and display the first ten rows to gain an initial understanding.
+
+2. **Finding Missing Values:** Identify schools with missing data in the `percent_tested` column, gauging the extent of missing information.
+
+3. **Schools by Building Code:** Explore the uniqueness of school locations by counting the number of distinct building codes.
+
+4. **Best Schools for Math:** Identify top-performing schools with an average math score of at least 640.
+
+5. **Lowest Reading Score:** Discover the school with the lowest average reading score.
+
+6. **Best Writing School:** Find the school with the highest average writing score.
+
+7. **Top 10 Schools:** Rank and display the top 10 schools based on the average SAT score.
+
+8. **Ranking Boroughs:** Analyze school performance by borough, calculating the number of schools and the average SAT score per borough.
+
+9. **Brooklyn Numbers:** Focus on Brooklyn, identifying the top five schools for math performance.
+
+## Key Learning 🧠
+
+- **SQL Syntax Mastery:** Utilizing `SELECT` statements, `LIMIT` clause, `ORDER BY` clause, and WHERE clause for effective data retrieval.
+
+- **SQL Functions Expertise:** Leveraging aggregate functions (`AVG`, `COUNT`, `SUM`), ROUND function for precision control, and `DISTINCT` keyword for eliminating duplicates.
+
+View my project [here](https://github.com/MeriemTerki/SQL-Projects-Portfolio/blob/main/Analyzing%20NYC%20Public%20School%20Test%20Result%20Scores/Analyzing-NYC-Public-School-Test-Result-Scores.ipynb).
+
+
 ## Video Game Analysis Project 🎮
 
 #### Introduction 🌍
